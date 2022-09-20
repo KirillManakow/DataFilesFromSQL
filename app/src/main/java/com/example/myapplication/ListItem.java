@@ -15,6 +15,7 @@ public class ListItem {
 Connection connect;
 String ConnectionResult="";
 Boolean isSucces= false;
+
 public List<Map<String,String>>getlist()
 {
     List<Map<String,String>> data= null;
